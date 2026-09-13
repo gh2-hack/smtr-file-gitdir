@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = file:///home/runner/work/smtr-file-gitdir/smtr-file-gitdir/.git
